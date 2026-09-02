@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block nothing today; add private/admin paths here when they exist
+# Disallow: /admin/
+
+Sitemap: https://www.punemumbaicab.com/sitemap.xml
